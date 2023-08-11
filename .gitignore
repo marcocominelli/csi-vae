@@ -10,3 +10,5 @@ four_antennas
 results
 dataset
 *.zip*
+.ipynb_checkpoints
+VAE_models_12activities

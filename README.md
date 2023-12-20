@@ -6,7 +6,7 @@ Marco Cominelli, Francesco Gringoli, Lance M. Kaplan, Mani B. Srivastava, Federi
 "Accurate Passive Radar via an Uncertainty-Aware Fusion of Wi-Fi Sensing Data"
 26th International Conference on Information Fusion (FUSION 2023)
 ```
-and in an extended version of the work currently submitted to IEEE Transactions on Mobile Communications.
+and in an extended version of the work (currently work in progress).
 
 There are three Jupyter notebooks in this repository:
 
@@ -18,4 +18,4 @@ There are three Jupyter notebooks in this repository:
 
 - [Raw CSI dataset](https://doi.org/10.5281/zenodo.7732595)
 - [Pre-processed dataset and models](https://doi.org/10.5281/zenodo.7983057) used in the FUSION 2023 paper.
-- [Pre-processed dataset and models](https://doi.org/10.5281/zenodo.8239343) used in the work submitted to IEEE Transactions of Mobile Computing (currently under review).
+- [Pre-processed dataset and models](https://doi.org/10.5281/zenodo.8239343) used to extend the work in the FUSION paper.

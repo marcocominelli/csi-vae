@@ -12,3 +12,6 @@ dataset
 *.zip*
 .ipynb_checkpoints
 VAE_models_12activities
+dataset
+model_weights
+results_*
